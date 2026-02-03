@@ -1,2 +1,1 @@
-# cs2
-cs2 configs etc.
+# cs2 config
